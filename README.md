@@ -261,14 +261,6 @@ alembic upgrade head
 
 ---
 
-## ✅ Best Practices
-
-✔ Use `.env` file for DB credentials
-✔ Use versioning for drafts
-✔ Keep services separate from routes
-✔ Always test APIs using Swagger/Postman
-
----
 
 ## 🚀 Future Improvements
 
